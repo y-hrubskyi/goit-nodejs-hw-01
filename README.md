@@ -4,7 +4,7 @@
 
 `node index.js --action="list"`
 <br/>
-example: https://prnt.sc/xFkd5OxdS6wu
+example: https://prnt.sc/wvihKopIZV6e
 
 ### Отримуємо контакт по id і виводимо у консоль об'єкт контакту або null, якщо контакту з таким id не існує.
 
